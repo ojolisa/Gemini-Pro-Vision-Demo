@@ -1,4 +1,4 @@
-PIL
+pillow
 google-generativeai
-IPython
+ipython
 streamlit
