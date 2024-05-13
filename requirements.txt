@@ -1,0 +1,4 @@
+PIL
+google-generativeai
+IPython
+streamlit
