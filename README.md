@@ -34,7 +34,7 @@ This repository contains a Streamlit web application that demonstrates the capab
 To run the Streamlit application, use the following command:
 ```sh
 streamlit run app.py
-
+```
 ## Use Cases
 
 ### 1. Descriptive Image Analysis
